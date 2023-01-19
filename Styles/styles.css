@@ -1,0 +1,16 @@
+*{
+    font-family: 'Work Sans', sans-serif;
+}
+.banner-image{
+    background-image: url(../images/banner.png);
+    background-repeat: no-repeat;
+    height: 90vh;
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+:root {
+    --bs-font-family: 'Roboto', sans-serif;
+} 
+.shadow-custom{
+    box-shadow: 0px 42px 34px rgba(63, 135, 245, 0.25);
+}
